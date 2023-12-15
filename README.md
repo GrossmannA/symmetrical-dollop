@@ -1,3 +1,3 @@
 # symmetrical-dollop
 
-## Hello from VS code
+## Hello from Github
